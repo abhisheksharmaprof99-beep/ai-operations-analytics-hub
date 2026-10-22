@@ -1,1 +1,1 @@
-# ai-operations-analystics-hub
+# ai-operation-analystics-hub
